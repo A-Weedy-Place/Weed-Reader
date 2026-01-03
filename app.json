@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "LNReader",
-    "slug": "LNReader",
-    "scheme": "lnreader",
+    "name": "Weed Reader",
+    "slug": "WeedReader",
+    "scheme": "weedreader",
     "plugins": [
       "expo-localization",
       "react-native-edge-to-edge",
