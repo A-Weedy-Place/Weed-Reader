@@ -13,6 +13,8 @@ import com.facebook.react.defaults.DefaultReactActivityDelegate
 import com.rajarsheechatterjee.NativeVolumeButtonListener.NativeVolumeButtonListener
 import expo.modules.ReactActivityDelegateWrapper
 import org.devio.rn.splashscreen.SplashScreen
+import com.aweedyplace.weedreader.BuildConfig
+import com.aweedyplace.weedreader.R
 
 class MainActivity : ReactActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

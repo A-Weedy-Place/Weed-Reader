@@ -17,6 +17,7 @@ import com.rajarsheechatterjee.NativeFile.NativePackage
 import com.rajarsheechatterjee.NativeVolumeButtonListener.NativeVolumeButtonListenerPackage
 import com.rajarsheechatterjee.NativeZipArchive.NativeZipArchivePackage
 import expo.modules.ApplicationLifecycleDispatcher
+import com.aweedyplace.weedreader.BuildConfig
 
 class MainApplication : Application(), ReactApplication {
     override val reactNativeHost: ReactNativeHost =
